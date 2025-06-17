@@ -1,0 +1,59 @@
+/* CSS documnet*/
+p {
+	color: #ecffec;
+	font-family: "ADLaM Display";
+	font-size: 16px;
+	line-height: 18px;
+	width: 820px;
+	background-color: rgba(74, 107, 82, 0.3);
+	padding: 15px;
+	text-align: center;
+}
+
+
+
+
+@font-face {
+    font-family: "PetraVIdakovic";
+    src:url("font/PetraVIdakovic.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{
+    font-family: "PetraVIdakovic", sans-serif;
+	color: #b5e6b5;
+	text-align: center;
+}
+
+h2{	
+	color: #b5e6b5
+}
+
+h3{	
+	color: #b5e6b5
+}
+
+body{
+	background-image: url("slike/pozadina.jpg");
+}
+
+a:link {
+	color: #ecffec;
+	background-color: #5a7862;
+	padding: 7px;
+	line-height: 40px;
+	border: 0.2px solid #ecffec;
+}
+a:visited{
+	color: #ecffec;
+	background-color: #5a7862;
+	padding: 7px;
+	line-height: 40px;
+	border: 0.2px solid #ecffec;
+}
+
+}
+a:hover{
+	background-color: #243328;
+}
