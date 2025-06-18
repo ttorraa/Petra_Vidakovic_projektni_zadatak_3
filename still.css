@@ -15,7 +15,7 @@ p {
 
 @font-face {
     font-family: "probaPetraVidakovic";
-    src:url("./font/probaPetraVidakovic.ttf");
+    src:url("probaPetraVidakovic.ttf");
     font-weight: normal;
     font-style: normal;
 }
