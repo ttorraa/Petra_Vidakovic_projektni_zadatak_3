@@ -15,7 +15,7 @@ p {
 
 @font-face {
     font-family: "probaPetraVidakovic";
-    src:url("probaPetraVidakovic.ttf");
+    src:url("./font/probaPetraVidakovic.ttf") format(ttf);
 }
 
 h1{
