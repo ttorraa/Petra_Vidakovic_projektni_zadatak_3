@@ -15,11 +15,14 @@ p {
 
 @font-face {
     font-family: "probaPetraVidakovic";
-    src:url("./font/probaPetraVidakovic.ttf") format(ttf);
+    src:url("./font/probaPetraVidakovic.ttf") format("truetyoe");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
 }
 
 h1{
-    font-family: "probaPetraVidakovic";
+    font-family: "probaPetraVidakovic", "sans-serif";
 	color: #b5e6b5;
 	text-align: center;
 }
