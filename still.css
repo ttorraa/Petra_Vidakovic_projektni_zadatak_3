@@ -14,14 +14,14 @@ p {
 
 
 @font-face {
-    font-family: "PetraVIdakovic";
-    src:url("font/PetraVIdakovic.ttf");
+    font-family: "probaPetraVidakovic";
+    src:url("font/probaPetraVidakovic.ttf");
     font-weight: normal;
     font-style: normal;
 }
 
 h1{
-    font-family: "PetraVIdakovic", sans-serif;
+    font-family: "probaPetraVidakovic", sans-serif;
 	color: #b5e6b5;
 	text-align: center;
 }
